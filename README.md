@@ -1,3 +1,4 @@
+
 # flutter Grid Multiple Item Selection
 This is a flutter drag to select grid item project. User can select multiple item from grid item by dragging. 
 
@@ -6,3 +7,7 @@ Item can be selected by tapping on the specific item
 
 ## Select items by dragging
 Multiple item can be selected by dragging on the items.
+
+# dijkstra-visualizer-flutter
+This is a shortage path visualizer application based on Dijkstra's Algorithm
+
