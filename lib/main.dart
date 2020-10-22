@@ -12,7 +12,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.red,
       ),
-      home: MyHomePage(title: 'Dijkstra’s Simulator - Flutter'),
+      home: MyHomePage(title: 'Dijkstra Short Path Visualizer - Flutter'),
     );
   }
 }
